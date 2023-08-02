@@ -12,5 +12,7 @@ spring:
           username: sgnal17
           password: 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
       fail-fast: true
+encrypt:
+  key: cydeo
 server:
   port: 8888
