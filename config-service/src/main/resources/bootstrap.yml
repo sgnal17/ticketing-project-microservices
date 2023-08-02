@@ -10,7 +10,7 @@ spring:
           uri: https://github.com/sgnal17/ticketing-project-microservices-config
           default-label: main
           username: sgnal17
-          password: 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
+          password: '{cipher}27bd32936046fe9a023d9f4282d4f2c876d843cdbf661a6ccf448ca5dc493f6fd0cd70e5824f17b15b39099a51a2045b215b7d755ef6474fc236b070bc8241d2'
       fail-fast: true
 encrypt:
   key: cydeo
